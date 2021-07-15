@@ -1,0 +1,13 @@
+body {
+    background-image: url("D:\Kavya\Coding Project Documents\C 81\Class 81\bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color: red;
+}
+#my_canvas {
+    background-color: white;
+    border-width: 3px;
+    border-style: ridge;
+}
